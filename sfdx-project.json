@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "export-activities-sfdx",
+  "name": "pardot-pusher-api-sfdx",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
